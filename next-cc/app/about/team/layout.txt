@@ -1,0 +1,11 @@
+import React from 'react'
+
+const TeamLayout = ({ children }) => {
+    return (
+        <div>
+            <h1>Team layout</h1>
+            {children}</div>
+    )
+}
+
+export default TeamLayout
