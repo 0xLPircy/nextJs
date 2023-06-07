@@ -1,3 +1,6 @@
 nextjs learning
 
 public folder, everything in public folder will be directly accessable from browser
+
+'use client'
+to make client side and use state
