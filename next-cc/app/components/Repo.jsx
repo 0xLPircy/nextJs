@@ -15,7 +15,7 @@ async function fetchRepo(name) {
 }
 
 const Repo = async ({ name }) => {
-    const repo = await fetchRepo(name);
+    const repo = await fetchRepo(name);//asynchronous
 
     return (
         <>
